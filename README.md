@@ -14,7 +14,7 @@ A Robust Data Driven Approach for Dynamics Model Identification in Trajectory Pl
 </p>
 
 ### Model Fitting:
-<p align="left">
+<p align="center">
 <img src="model identification and trajectory planning/result_svg/t1t.svg" width="450"/>
 <img src="model identification and trajectory planning/result_svg/t2t.svg" width="450"/>
 <img src="model identification and trajectory planning/result_svg/t3t.svg" width="450"/>
