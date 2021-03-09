@@ -1,12 +1,13 @@
 # Modell-identification-and-trajectory-planning
 A Robust Data Driven Approach for Dynamics Model Identification in Trajectory Planning
 
-##Block diagram:
+## Block diagram:
 <p align="center">
 <img src="model identification and trajectory planning/result_svg/Blank diagram.svg">
 </p>
 
 ## Results:
+
 ### Denoise:
 <p align="center">
 <img src="model identification and trajectory planning/result_svg/denoise.svg">
