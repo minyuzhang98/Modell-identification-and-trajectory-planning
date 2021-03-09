@@ -18,10 +18,12 @@ A Robust Data Driven Approach for Dynamics Model Identification in Trajectory Pl
 <img src="model identification and trajectory planning/result_svg/t2t.svg" width="450"/>
 <img src="model identification and trajectory planning/result_svg/t3t.svg" width="450"/>
 </p>
+
 ### energy :
 <p align="center">
 <img src="model identification and trajectory planning/result_svg/0330Energy.svg">
 </p>
+
 ### τ3 fitting:
 <p align="center">
 <img src="model identification and trajectory planning/result_svg/0303DTG.svg">
